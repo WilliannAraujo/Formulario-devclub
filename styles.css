@@ -19,7 +19,7 @@ form,div{
     padding: 20px;
 }
 input,textarea{
-    min-width: 350px;
+    min-width: 300px;
     display: block;
     margin: 0 auto;
     border-radius: 5px;
@@ -27,6 +27,7 @@ input,textarea{
     margin-top: 20px;
     height: 40px;
     padding-left: 10px;
+    
 }
 textarea{
     height: 200px;
@@ -54,3 +55,4 @@ h1,p{
     text-align: center;
     margin: 10px;
 }
+
